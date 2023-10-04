@@ -1,6 +1,0 @@
-This is Git and GitHub Tutorial
-Git is a version Control system
-It will track the Information about
-who did changes
-when did changes
-what purpose did change
